@@ -18,16 +18,16 @@ Estudando e aperfeiçoando meus conhecimentos, criando projetos para conquistar 
 Landing page moderna e responsiva, dark mode, animações, organização com módulos JavaScript, SASS estruturado com mixins e variáveis, Vite para build e MockAPI para dados dinâmicos.
 
 ### 🌐 Onde me encontrar
-<p align="center">
+<p>
   <a href="https://github.com/isabelasdeveloper" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="22" alt="GitHub Logo" />
-    <span><strong>github.com/isabelasdeveloper</strong></span>
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="25" alt="GitHub Logo" />
+    <span>github.com/isabelasdeveloper</span>
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/isabelasofiaalves/" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="22" alt="LinkedIn Logo" />
-    <span><strong>linkedin.com/in/isabelasofiaalves</strong></span>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25" alt="LinkedIn Logo" />
+    <span>linkedin.com/in/isabelasofiaalves</span>
   </a>
 </p>
