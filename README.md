@@ -3,6 +3,7 @@
 </p>
 <h1>Isabela Alves</h1>
 <h3>Web Developer 💻✨</h3>
+
 ### 👤 Sobre mim
 Sou graduada em Engenharia de Computação, em desenvolvimento web meu foco é React e Javascript, gosto de utilizar pré-processadores como SASS para organização de CSS, e possuo experiência com versionamento de código (Git/Github), Vite, API Rest, além de framkeworks como Tailwind CSS e Bootstrap. Na parte de back-end, tenho um curso finalizado em Java e possuo afinidades com tecnologias como Node e Python. Também tenho conhecimento na área de bancos relacionais como SQLServer. Além de possuir certificações de metodologias ágeis como Scrum e Kanban
 
