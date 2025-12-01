@@ -18,13 +18,9 @@ Estudando e aperfeiçoando meus conhecimentos, criando projetos para conquistar 
 Landing page moderna e responsiva, dark mode, animações, organização com módulos JavaScript, SASS estruturado com mixins e variáveis, Vite para build e MockAPI para dados dinâmicos.
 
 ### 🌐 Onde me encontrar
-<div align="left" style="display: flex; flex-direction: column; gap: 15px;">
-  <a href="https://github.com/isabelasdeveloper" style="text-decoration:none; color:inherit; display: flex; align-items: center; justify-content: center">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="22" alt="GitHub Logo"/>
-    <strong>github.com/isabelasdeveloper</strong>
-  </a>
-  <a href="https://www.linkedin.com/in/isabelasofiaalves/" style="text-decoration:none; color:inherit; display: flex; align-items: center; justify-content: center">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="22" alt="LinkedIn Logo"/>
-      <strong>linkedin.com/in/isabelasofiaalves</strong
-  </a>
-</div>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isabelasdeveloper)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isabelasofiaalves/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvesisabela020@gmail.com)
